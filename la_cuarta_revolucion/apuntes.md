@@ -11,4 +11,10 @@
 - automatizacion
 - transformacion de los negocios 
 - datos
+## economia de plataforma
+- negocios que aparecen gracias a una plataforma
+- personalizacion en masa (esto lo que provoca es una dismnucion de costes)
+- outsorcins - contratacion externa ( core bussiness)
+             - externalizacion
+ 
 
