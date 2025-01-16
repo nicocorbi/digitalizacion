@@ -30,6 +30,8 @@ fibra optica y 5g
 - acceso bajo demanda
 - servicio a medida
 - actualizaciones automaticas
-
+## MODELOS DE SERVICIOS
+SaaS= software como servicio
+PaaS
  
 
