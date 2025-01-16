@@ -32,6 +32,12 @@ fibra optica y 5g
 - actualizaciones automaticas
 ## MODELOS DE SERVICIOS
 SaaS= software como servicio
-PaaS
- 
+PaaS= platform as a services
+IaaS= infraestructura como servicio
+## MODELOS DE IMPLEMENTACION 
+
+ nube privada- la planficacion de recursos empresariales es un sistema de software que ayuda a optimizar procesos de negocios centrales
+ con una vision unificada de la actividad y una unica fuente de verdad
+ nube publica- los recursos son propiedad de un proveedor externo y se comparten entre varias empresas.
+ nube hibrida- combina elementos de la nube privada y de la publica permitiendo la transferencia de datosy aplicaciones entre ellas.
 
