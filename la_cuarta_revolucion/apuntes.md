@@ -110,3 +110,15 @@ Los centros de datos avanzados proporcionan a las empresas acceso a herramientas
 Eficiencia en el diseño de data centers:
 Las empresas que diseñan soluciones más eficientes y sostenibles tienen una ventaja en términos de rentabilidad. Por ejemplo, Meta y Google 
 destacan por implementar centros en ubicaciones estratégicas, como el Ártico o el océano, para maximizar la eficiencia energética.
+## CMP en empresas
+- almacenamiento de datos
+- procesamiento
+- internet de las cosas
+- facilidad de acceso
+- menos recursos 
+- reduccion de co2
+- aumento de la eficiencia
+## como implementar el cloud computing en un negocio
+1- analizar las neceisades de la empresa para aumentar la eficiencia,menor costes, mejor imagen ,es decir,mayores ingresos
+2- inventario de la tecnologia que necesitamos
+3- 
